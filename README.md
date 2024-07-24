@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
+  <img src="https://camo.githubusercontent.com/3bed9eb5626bdcb727cf1125588daac4e6df470a3d72783129cbf0a5262d1d74/68747470733a2f2f726561646d652d6461696c792d71756f7465732e76657263656c2e6170702f6170693f666f6e743d7472656275636865745f6d73">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
