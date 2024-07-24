@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://ko-fi.com/ananyaa012" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="#" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
