@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
-  <img align="left" width="60px" alt="GIF description" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+  <img align="center" width="60px" alt="GIF description" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 </picture>
 <br />
 <!--SKILL--> 
