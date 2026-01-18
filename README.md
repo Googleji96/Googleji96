@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 Performance optimization in JavaScript applications.
 - ✍ I write technical blogs.
-- 💁‍♂️ Ask me about:JavaScript, HTML/CSS, UI/UX Design
+- 💁‍♂️ Ask me about:JavaScript, HTML/CSS, React.js,
+- Next.js, Node.js, Express.js, MongoDB, UI/UX Design
 - ❤ Contributing to Open Source.
 <!--End Intro-->
 
@@ -45,16 +46,16 @@ Here are some ideas to get you started:
 <!--Languages and Tools Section-->       
 <h2 align="center">SKILL & CURRENT LEARNING</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+  <img align="left" alt="GIF description" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 </picture>
 <br />
 <!--SKILL--> 
 <h3 align="left">Skills :</h3>
 <ul align="left">
   <li>Language : HTML5,CSS#,JavaScript (ES6+).</li>
-  <li>Frameworks/Libraries: Vue.js</li>
+  <li>Frameworks/Libraries: React.js, Next.js, Node.js, React Native</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
 </ul>
 
@@ -72,29 +73,11 @@ Here are some ideas to get you started:
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaa012&" alt="ananyaa012"border-radius="15">
+  <img src="https://github-readme-stats.vercel.app/api?username=Googleji96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Googleji96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
-
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/3bed9eb5626bdcb727cf1125588daac4e6df470a3d72783129cbf0a5262d1d74/68747470733a2f2f726561646d652d6461696c792d71756f7465732e76657263656c2e6170702f6170693f666f6e743d7472656275636865745f6d73">
-<!--     <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20not%20that%20we%20have%20too%20little%20time%20to%20do%20all%20the%20things%20we%20need%20to%20do%20%2C%20it%20is%20that%20we%20feel%20the%20need%20to%20do%20too%20many%20things%20in%20the%20time%20we%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90"> -->
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
+###
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -102,23 +85,9 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/gajendra-vishwakarma-25369025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Googleji96" height="30" width="40" /></a>
 <a href="https://www.instagram.com/googleji96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Googleji96" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Googleji96" height="30" width="40" /></a>
 </p>
 </div>
 <br/>
-
-
-
-
-
-
-
-
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="#" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 
 <!--Footer--> 
